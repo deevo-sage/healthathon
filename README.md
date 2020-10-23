@@ -6,16 +6,15 @@
 "id1":{
 "user-data-component1":"",
 "user-data-component2":"",
-...
 }
 "id2":{
 "user-data-component1":"",
 "user-data-component2":"",
-...
 }
 }
 } 
 ```
+<bv>
 ###Pre requisites
 - parcel
 - React
@@ -23,10 +22,11 @@
 - Javascript 
 - CSS
 - emotions aka CSS in JS
-- ####optional 
+- **optional** 
   - ESLint
   - Babel 
   - Prettier
+ <br>
 ###Contributers
 1. Sidharth Sahni
 2. Priyanshu Kumar
