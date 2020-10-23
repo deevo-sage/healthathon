@@ -25,9 +25,9 @@
   - ESLint
   - Babel 
   - Prettier
-<br>
+<br/>
 ###Contributers
-1. Sidharth Sahni
-2. Priyanshu Kumar
-3. Prakhar Kumar
-4. Abhishek Kumar Tiwari
+- Sidharth Sahni
+- Priyanshu Kumar
+- Prakhar Kumar
+- Abhishek Kumar Tiwari
