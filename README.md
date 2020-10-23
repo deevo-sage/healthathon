@@ -25,7 +25,8 @@
   - ESLint
   - Babel 
   - Prettier
-<br/>
+  
+  
 ###Contributers
 - Sidharth Sahni
 - Priyanshu Kumar
