@@ -14,7 +14,7 @@
 }
 } 
 ```
-<bv>
+<br>
 ###Pre requisites
 - parcel
 - React
