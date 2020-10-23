@@ -14,7 +14,6 @@
 }
 } 
 ```
-<br>
 ###Pre requisites
 - parcel
 - React
@@ -26,7 +25,6 @@
   - ESLint
   - Babel 
   - Prettier
- <br>
 ###Contributers
 1. Sidharth Sahni
 2. Priyanshu Kumar
