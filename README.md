@@ -6,7 +6,7 @@
 "id1":{
 "user-data-component1":"",
 "user-data-component2":"",
-}
+},
 "id2":{
 "user-data-component1":"",
 "user-data-component2":"",
