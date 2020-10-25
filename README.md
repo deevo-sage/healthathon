@@ -32,5 +32,7 @@
 - Priyanshu Kumar
 - Prakhar Kumar
 - Abhishek Kumar Tiwari
-npm install react react-dom   
+<br/>
+npm install react react-dom 
+<br/>
 npm install -D parcel
