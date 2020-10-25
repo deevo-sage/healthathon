@@ -38,4 +38,4 @@ npm install react react-dom
 npm install -D parcel
 <br/>
 ###optional
-npm install eslint babel prettier
+npm install -D eslint babel prettier
