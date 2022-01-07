@@ -1,5 +1,5 @@
 # Healthathon
-###Json Structure used
+### Json Structure used
 ```json
 {
 "profiles":{
@@ -14,7 +14,7 @@
 }
 } 
 ```
-###Pre requisites
+### Pre requisites
 - parcel
 - React
 - React-DOM
@@ -27,7 +27,7 @@
   - Prettier
   
   
-###Contributers
+### Contributers
 - Sidharth Sahni
 - Priyanshu Kumar
 - Prakhar Kumar
